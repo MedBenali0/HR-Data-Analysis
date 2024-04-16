@@ -26,6 +26,7 @@ The 'rh' table schema represents employee information. Here's a description of e
 The script file named "Queries.sql" detailing SQL queries used for data manipulation and analysis within the project. Each SQL statement is accompanied by a comment explaining its purpose and functionality, providing clarity and context for the queries utilized in the project.
 
 ## HR Dashboard
-<div style="text-align:center"><img src="Dashboard.png" /></div>
+<div style="text-align:center"><img src="dashboard.png" /></div>
+
 ## Summary
 Through this project, I've developed practical skills in SQL querying, data cleaning, analysis, and visualization, enhancing my proficiency in handling and interpreting HR data effectively.

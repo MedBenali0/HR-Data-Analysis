@@ -21,3 +21,11 @@ The 'rh' table schema represents employee information. Here's a description of e
 - **location_city**: The city where the employee's location or office is situated, stored as text.
 - **location_state**: The state where the employee's location or office is situated, stored as text.
 - **age**: The age of the employee, stored as an integer.
+
+## SQL Queries Documentation
+The script file named "Queries.sql" detailing SQL queries used for data manipulation and analysis within the project. Each SQL statement is accompanied by a comment explaining its purpose and functionality, providing clarity and context for the queries utilized in the project.
+
+## HR Dashboard
+<div style="text-align:center"><img src="Dashboard.png" /></div>
+## Summary
+Through this project, I've developed practical skills in SQL querying, data cleaning, analysis, and visualization, enhancing my proficiency in handling and interpreting HR data effectively.

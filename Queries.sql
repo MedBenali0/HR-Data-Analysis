@@ -40,6 +40,7 @@ SELECT birthdate,age FROM rh;
 SELECT min(age) as MINUMUM_AGE, max(age) as MAXIMUM_AGE FROM rh;
 SELECT count(age) FROM rh WHERE age<18;
 
+
 /* QUESTIONS TO ANSWER FOR THE COMPANY */
 /* 1- WHAT'S THE GENDER BREAKDOWN OF EMPLOYEES IN THE COMPANY ? */
 SELECT gender,count(*) AS number_of_emp

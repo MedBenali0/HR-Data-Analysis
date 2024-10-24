@@ -1,7 +1,7 @@
 # HR-Data-Analysis
 
 ## Project Overview
-Conducted a comprehensive data analysis project focused on HR data spanning from the year 2000 to 2020, containing over 22,000 rows. The project involved importing the data into MySQL Workbench for initial processing and cleaning, where I performed some tasks such as handling missing values and standardizing formats. Subsequently, I performed thorough data analysis to extract insights and uncover patterns within the HR dataset. Employing database queries, I conducted an in-depth examination of gender and race/ethnicity demographics, scrutinized age distributions, and investigated employee locations and tenure. Finally, I employed Power BI to create visually appealing data visualizations, including charts, graphs, and dashboards, to effectively communicate the findings and insights derived from the analysis.
+Conducted a comprehensive data analysis project focused on HR data spanning from the year 2000 to 2020, containing over 22,000 rows. The project involved importing the data into MySQL Workbench for initial processing and cleaning, where I performed some tasks such as handling missing values and standardizing formats. Subsequently, I performed thorough data analysis to extract insights and uncover patterns within the HR dataset. Employing database queries, I conducted an in-depth examination of gender and race/ethnicity demographics, scrutinized age distributions, and investigated employee locations and tenure. Finally, I employed Power BI to create visually appealing data visualizations, to effectively communicate the findings and insights derived from the analysis.
 
 ## Database Table Schema
 <p align="center">
@@ -25,9 +25,9 @@ The 'rh' table schema represents employee information. Here's a description of e
 - **age**: The age of the employee, stored as an integer.
 
 ## SQL Queries Documentation
-The script file named "Queries.sql" detailing SQL queries used for data manipulation and analysis within the project. Each SQL statement is accompanied by a comment explaining its purpose and functionality, providing clarity and context for the queries utilized in the project.
+The script file named `Queries.sql` detailing SQL queries used for data manipulation and analysis within the project. Each SQL statement is accompanied by a comment explaining its purpose and functionality, providing clarity and context for the queries utilized in the project.
 
-## HR Dashboard
+## HR Report
 <p align="center">
     <img src="images/page1.png" />
 </p>
